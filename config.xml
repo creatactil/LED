@@ -13,6 +13,6 @@
     <access origin="*" />
 	<preference name="phonegap-version" value="cli-6.1.0" />
     <preference name="orientation" value="portrait" />
-	<gap:plugin name="cordova-plugin-ble-central" source="npm" />
+	<plugin name="cordova-plugin-ble-central" source="npm" />
 
 </widget>
